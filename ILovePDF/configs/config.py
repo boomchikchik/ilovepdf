@@ -3,7 +3,7 @@
 # Copyright ©️ 2021 nabilanavab
 
 
-file_name = "ILovePDF/configs/config.py"
+file_name = r"ILovePDF/configs/config.py"
 
 import os
 from typing import List
